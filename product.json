@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "White Pot with floral design",
+    "preview": "https://mitticool.com/wp-content/uploads/2019/04/P___0012_2_Pot_2.jpg",
+    "description": "",
+    "isAccessory": false,
+    "price": 500
+  },
+  {
+    "id": "2",
+    "name": "Clay Pot with peacock design",
+    "preview": "https://5.imimg.com/data5/AN/VE/KW/SELLER-47871848/ceramic-water-pot-500x500.jpg",
+    "description": "",
+    "isAccessory": false,
+    "price": 480
+  },
+  {
+    "id": "3",
+    "name": "Pot with beach scenery",
+    "preview": "https://5.imimg.com/data5/FT/UK/MY-16296771/11-litre-printed-clay-pot-250x250.jpg",
+    "description": "",
+    "isAccessory": false,
+    "price": 500
+  },
+  {
+    "id": "4",
+    "name": "Earthen Pot with abstract design",
+    "preview": "https://m.media-amazon.com/images/I/61x90sKaNJL._SX522_.jpg",
+    "description": "",
+    "isAccessory": false,
+    "price": 450
+  },
+  {
+    "id": "5",
+    "name": "white pot with abstract design",
+    "preview": "https://mitticool.com/wp-content/uploads/2021/02/P___0011_1_WHite-W-pot-Print-N-11.jpg",
+    "description": "",
+    "isAccessory": false,
+    "price": 600
+  },
+  {
+    "id": "6",
+    "name": "Earthen lamp",
+    "preview": "https://n2.sdlcdn.com/imgs/a/g/h/SDL709367038_1386594914_image1-e0eb3.jpg",
+    "description": "",
+    "isAccessory": true,
+    "price": 200
+  },
+  {
+    "id": "7",
+    "name": "Colorful diyas",
+    "preview": "https://m.media-amazon.com/images/I/81q-7-I+K+L._SX425_.jpg",
+    "description": "",
+    "isAccessory": true,
+    "price": 250
+  },
+  {
+    "id": "8",
+    "name": "Glowing Lamp",
+    "preview": "https://m.media-amazon.com/images/I/61CcbdGF7UL._SL1100_.jpg",
+    "description": "",
+    "isAccessory": true,
+    "price": 400
+  },
+  {
+    "id": "9",
+    "name": "Multri Colored Light Lamp",
+    "preview": "https://m.media-amazon.com/images/I/51AuWJHWjYL._SX342_.jpg",
+    "description": "",
+    "isAccessory": true,
+    "price": 500
+  },
+  {
+    "id": "10",
+    "name": "Traditional hand made lamp",
+    "preview": "https://5.imimg.com/data5/JQ/FF/UL/SELLER-42911534/terracotta-lantern-250x250.jpg",
+    "description": "",
+    "isAccessory": true,
+    "price": 300
+  }
+]
